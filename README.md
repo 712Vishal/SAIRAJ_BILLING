@@ -1,4 +1,3 @@
-# SAIRAJ_BILLING
 # Billing Software with Inventory and Employee Management
 
 The Billing Application is a software solution designed to streamline and automate the billing process. It allows users to create, manage, and track invoices, clients, payments, and generate reports for financial insights. Built with efficiency and scalability in mind, this application aims to reduce manual efforts and minimize errors in billing and invoicing.
@@ -86,4 +85,4 @@ Here’s a list of main endpoints available:
 
 ## License
 
-- All rights reserved and free software documentation are licensed under the MIT license that can be found in the LICENSE file at https://github.com/712Vishal/SAIRAJ_BILLING/blob/main/sairaj_billing/sairaj_billing/LICENSE
+- All rights reserved and free software documentation are licensed under the MIT license that can be found in the LICENSE file at https
