@@ -86,4 +86,4 @@ Here’s a list of main endpoints available:
 
 ## License
 
-- All rights reserved and free software documentation are licensed under the MIT license that can be found in the LICENSE file at https
+- All rights reserved and free software documentation are licensed under the MIT license that can be found in the LICENSE file at https://github.com/712Vishal/SAIRAJ_BILLING/blob/main/sairaj_billing/sairaj_billing/LICENSE
