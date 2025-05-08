@@ -1,3 +1,4 @@
+streamlit==1.29.0
 sqlite3
 Pillow
 --upgrade pip
