@@ -1,4 +1,6 @@
-# Billing Software with Inventory and Employee Management
+# Billing Software 
+
+Inventory and Employee Management
 
 The Billing Application is a software solution designed to streamline and automate the billing process. It allows users to create, manage, and track invoices, clients, payments, and generate reports for financial insights. Built with efficiency and scalability in mind, this application aims to reduce manual efforts and minimize errors in billing and invoicing.
 
